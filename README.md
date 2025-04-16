@@ -33,8 +33,9 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-***Developed by:Elamaran S E*** 
-***RegisterNumber:212222230036***
+Developed by:Elamaran S E
+
+RegisterNumber:212222230036
 ```
  module EX2(a,b,c,d,f1);
  input a,b,c,d;
